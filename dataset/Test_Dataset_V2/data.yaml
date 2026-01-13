@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['Bus', 'Car', 'License_Plate', 'MotorCycle', 'Pickup', 'Truck']
+
+roboflow:
+  workspace: yolo-dy7ke
+  project: yolov8_trial3
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yolo-dy7ke/yolov8_trial3/dataset/3

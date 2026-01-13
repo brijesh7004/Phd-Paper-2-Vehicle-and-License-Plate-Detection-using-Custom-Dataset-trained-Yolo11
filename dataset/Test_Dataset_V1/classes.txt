@@ -1,0 +1,6 @@
+Bus
+Car
+License_Plate
+Motorcycle
+Pickup
+Truck
