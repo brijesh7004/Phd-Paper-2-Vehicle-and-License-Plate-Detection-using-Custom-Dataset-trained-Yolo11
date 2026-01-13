@@ -1,0 +1,7 @@
+Class,TP (Diagonal),Off-diagonal Errors,Diagonal Dominance Ratio
+Bus,7,4,1.7499999995625
+Car,143,192,0.7447916666627876
+License_Plate,0,0,0.0
+MotorCycle,6,44,0.1363636363605372
+Pickup,0,0,0.0
+Truck,7,6,1.1666666664722223

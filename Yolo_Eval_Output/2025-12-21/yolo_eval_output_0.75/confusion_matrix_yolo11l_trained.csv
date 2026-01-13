@@ -1,0 +1,8 @@
+,Bus,Car,License_Plate,MotorCycle,Pickup,Truck,BG
+Bus,5,0,0,0,0,0,6
+Car,0,126,0,0,0,0,209
+License_Plate,0,0,0,6,0,0,79
+MotorCycle,0,1,0,2,4,0,43
+Pickup,0,1,0,0,1,5,14
+Truck,0,0,0,0,1,2,10
+BG,0,0,0,0,0,0,0
